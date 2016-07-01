@@ -9,7 +9,9 @@
  */
 
 class Database {
-    
+    public static function connect() {
+        
+    }
 }
 
 class DB extends Database {};

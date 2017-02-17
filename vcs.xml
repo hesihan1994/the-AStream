@@ -14,6 +14,14 @@
           <option name="url" value="https://github.com/catmanjan/anutimetable" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.cecs.anu.edu.au/u5998517/AStream_Full_Stack.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.cecs.anu.edu.au" />
+          <option name="userName" value="u5824077" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/var/www/html" />

@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="phantomjs" type="PLAIN_TEXT" />
       <mapping pattern="trash" type="PLAIN_TEXT" />
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern="test-common" type="PLAIN_TEXT" />

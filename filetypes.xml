@@ -4,6 +4,7 @@
       <mapping pattern="phantomjs" type="PLAIN_TEXT" />
       <mapping pattern="trash" type="PLAIN_TEXT" />
       <mapping pattern="txt" type="PLAIN_TEXT" />
+      <mapping pattern="Battles system implementation notes" type="PLAIN_TEXT" />
       <mapping pattern="test-common" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
